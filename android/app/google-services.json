@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389631662680",
+    "project_id": "meetmaster-f0f8b",
+    "storage_bucket": "meetmaster-f0f8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389631662680:android:4e57f96190c88904d5482d",
+        "android_client_info": {
+          "package_name": "com.example.meetmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HqQOomrGQTPexnI92qCp-lGgta644wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
